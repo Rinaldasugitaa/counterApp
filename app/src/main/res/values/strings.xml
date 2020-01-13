@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="angka_0">0</string>
+    <string name="text_btn_count_en">Count</string>
+    <string name="text_btn_reset_en" />
+    <string name="btn_reset">reset</string>
+</resources>
